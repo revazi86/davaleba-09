@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Archy EDT';
+    src: url(../fonts/'ArchyEDT-Thin.eot');
+    src: url(../fonts/'ArchyEDT-Thin.eot?#iefix') format('embedded-opentype'),
+        url(../fonts/'ArchyEDT-Thin.woff2') format('woff2'),
+        url(../fonts/'ArchyEDT-Thin.woff') format('woff'),
+        url(../fonts/'ArchyEDT-Thin.ttf') format('truetype'),
+        url(../fonts/'ArchyEDT-Thin.svg#ArchyEDT-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Pierre Dingbats';
+    src: url(../fonts/'ZapfDingbats.eot');
+    src: url(../fonts/'ZapfDingbats.eot?#iefix') format('embedded-opentype'),
+        url(../fonts/'ZapfDingbats.woff2') format('woff2'),
+        url(../fonts/'ZapfDingbats.woff') format('woff'),
+        url(../fonts/'ZapfDingbats.ttf') format('truetype'),
+        url(../fonts/'ZapfDingbats.svg#ZapfDingbats') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
